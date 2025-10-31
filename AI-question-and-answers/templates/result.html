@@ -5,6 +5,36 @@
     <title>Result Page</title>
     <style>
         /* Base setup */
+        #flash-messages {
+            margin-bottom: 20px;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        .flash-message {
+            padding: 12px 15px;
+            border-radius: 8px;
+            font-weight: 500;
+            margin-top: 10px;
+        }
+
+        .flash-message.success {
+            background-color: #d1fae5;
+            color: #065f46;
+            border: 1px solid #10b981;
+        }
+
+        .flash-message.error {
+            background-color: #fee2e2;
+            color: #991b1b;
+            border: 1px solid #dc2626;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+
         body {
             font-family: "Segoe UI", Roboto, sans-serif;
             background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
@@ -160,6 +190,22 @@
 </head>
 <body>
     <div class="container">
+        {% if saved %}
+        <div class="success-actions">
+            <a href="{{ url_for('index') }}" class="back-btn">⬅️ Back to Homepage</a>
+        </div>
+        {% endif %}
+        {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    <div id="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message {{ category }}">
+                        {{ message }}
+                        </div>
+                    {% endfor %}
+                    </div>
+                {% endif %}
+            {% endwith %}
         <h2>Extracted JSON Data</h2>
 
         <div class="json-container">
@@ -181,6 +227,8 @@
                 ✅ {{ success }}
             </div>
         {% endif %}
+        
+
     </div>
 
     <script>

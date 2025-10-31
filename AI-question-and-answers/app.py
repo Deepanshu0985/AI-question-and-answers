@@ -1,8 +1,11 @@
-from flask import Flask, render_template, request, session, redirect, url_for
+from flask import Flask, render_template, request, session, redirect, url_for,flash
 # from get_vector import extractJson
 import json
 
 app = Flask(__name__)
+def update_db(test_name, data):
+    print(f"Updating DB with test name: {test_name}")
+    return True  # Simulate successful DB update
 
 def extractJson(physics, chemistry, maths, mapping_file):
     """
@@ -80,12 +83,21 @@ def result():
 
     if request.method == 'POST':
         test_name = request.form.get('test_name')
-        # Simulate saving...
-        print(f"✅ Saved '{test_name}' to DB with data: {data}")
-        session.pop('result_data', None)
-        return render_template('result.html', data=data, success=f"Test '{test_name}' saved successfully!")
+        print(f"Saving test with name: {test_name}")
+        print(f"Data to save: {data}")
 
-    return render_template('result.html', data=data)
+        # 🧠 Call your database update function
+        success = update_db(test_name, data)
+
+        if success:
+            flash(f"✅ Test '{test_name}' saved successfully!", 'success')
+            session.pop('result_data', None)
+        else:
+            flash("❌ Failed to save test data. Please try again.", 'error')
+
+        return render_template('result.html', data=data, test_name=test_name,saved=True)
+
+    return render_template('result.html', data=data,saved=True)
 
 
 if __name__ == '__main__':
