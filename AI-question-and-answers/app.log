@@ -1,0 +1,426 @@
+[2025-10-31 15:46:04] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:46:04] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:46:04] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:46:04] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:46:04] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:46:04] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:46:04] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:46:04] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:46:04] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:46:04] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:46:04] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:46:04] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:46:04] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:46:04] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:46:04] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:48:10] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:48:10] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:48:10] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:48:10] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:48:10] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:48:10] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:48:10] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:48:10] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:48:10] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:48:10] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:48:10] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:48:10] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:48:10] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:48:10] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:48:10] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:48:15] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:48:15] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:48:15] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:48:15] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:48:15] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:48:15] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:48:15] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:48:15] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:48:15] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:48:15] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:48:15] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:48:15] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:48:15] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:48:15] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:48:15] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:49:24] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:49:24] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:49:24] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:49:24] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:49:24] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:49:24] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:49:24] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:49:24] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:49:24] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:49:24] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:49:24] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:49:24] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:49:24] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:49:24] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:49:24] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:49:28] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:49:28] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:49:28] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:49:28] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:49:28] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:49:28] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:49:28] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:49:28] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:49:28] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:49:28] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:49:28] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:49:28] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:49:28] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:49:28] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:49:28] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:49:58] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:49:58] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:49:58] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:49:58] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:49:58] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:49:58] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:49:58] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:49:58] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:49:58] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:49:58] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:49:58] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:49:58] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:49:58] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:49:58] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:49:58] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:50:12] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:50:12] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:50:12] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:50:12] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:50:12] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:50:12] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:50:12] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:50:12] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:50:12] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:50:12] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:50:12] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:50:12] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:50:12] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:50:12] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:50:12] [SUCCESS] 🎯 All models and subjects processed successfully!
+[2025-10-31 15:51:10] [INFO] 🔹 Using model: phi4
+[2025-10-31 15:51:10] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:51:10] [INFO] ➡️ Processing question 1/1
+[2025-10-31 15:51:10] [ERROR] Error in get_topic_vector() | Question: hello: model 'phi4:latest' not found (status code: 404)
+Traceback (most recent call last):
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/get_vector.py", line 100, in get_topic_vector
+    response = chain.invoke({"questions": question, "topics": topic_string})
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3090, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 379, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1088, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 903, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1192, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/ollama/_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model 'phi4:latest' not found (status code: 404)
+
+[2025-10-31 15:51:10] [SUCCESS] ✔️ Finished question 1: {'Error': 100.0}
+[2025-10-31 15:51:10] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:51:10] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:51:10] [INFO] ➡️ Processing question 1/1
+[2025-10-31 15:51:10] [ERROR] Error in get_topic_vector() | Question: hello: model 'phi4:latest' not found (status code: 404)
+Traceback (most recent call last):
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/get_vector.py", line 100, in get_topic_vector
+    response = chain.invoke({"questions": question, "topics": topic_string})
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3090, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 379, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1088, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 903, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1192, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/ollama/_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model 'phi4:latest' not found (status code: 404)
+
+[2025-10-31 15:51:10] [SUCCESS] ✔️ Finished question 1: {'Error': 100.0}
+[2025-10-31 15:51:10] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:51:10] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:51:10] [INFO] ➡️ Processing question 1/1
+[2025-10-31 15:51:10] [ERROR] Error in get_topic_vector() | Question: hello: model 'phi4:latest' not found (status code: 404)
+Traceback (most recent call last):
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/get_vector.py", line 100, in get_topic_vector
+    response = chain.invoke({"questions": question, "topics": topic_string})
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3090, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 379, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1088, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 903, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1192, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/ollama/_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model 'phi4:latest' not found (status code: 404)
+
+[2025-10-31 15:51:10] [SUCCESS] ✔️ Finished question 1: {'Error': 100.0}
+[2025-10-31 15:51:10] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:51:10] [INFO] 🔹 Using model: gpt-oss
+[2025-10-31 15:51:10] [INFO] 📘 Processing subject: physics...
+[2025-10-31 15:51:10] [INFO] ➡️ Processing question 1/1
+[2025-10-31 15:51:10] [ERROR] Error in get_topic_vector() | Question: hello: model 'gpt-oss:20b' not found (status code: 404)
+Traceback (most recent call last):
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/get_vector.py", line 100, in get_topic_vector
+    response = chain.invoke({"questions": question, "topics": topic_string})
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3090, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 379, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1088, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 903, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1192, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/ollama/_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model 'gpt-oss:20b' not found (status code: 404)
+
+[2025-10-31 15:51:10] [SUCCESS] ✔️ Finished question 1: {'Error': 100.0}
+[2025-10-31 15:51:10] [SUCCESS] ✅ Completed subject: physics
+[2025-10-31 15:51:10] [INFO] 📘 Processing subject: chemistry...
+[2025-10-31 15:51:10] [INFO] ➡️ Processing question 1/1
+[2025-10-31 15:51:10] [ERROR] Error in get_topic_vector() | Question: hello: model 'gpt-oss:20b' not found (status code: 404)
+Traceback (most recent call last):
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/get_vector.py", line 100, in get_topic_vector
+    response = chain.invoke({"questions": question, "topics": topic_string})
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3090, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 379, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1088, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 903, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1192, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/ollama/_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model 'gpt-oss:20b' not found (status code: 404)
+
+[2025-10-31 15:51:10] [SUCCESS] ✔️ Finished question 1: {'Error': 100.0}
+[2025-10-31 15:51:10] [SUCCESS] ✅ Completed subject: chemistry
+[2025-10-31 15:51:10] [INFO] 📘 Processing subject: maths...
+[2025-10-31 15:51:10] [INFO] ➡️ Processing question 1/1
+[2025-10-31 15:51:10] [ERROR] Error in get_topic_vector() | Question: hello: model 'gpt-oss:20b' not found (status code: 404)
+Traceback (most recent call last):
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/get_vector.py", line 100, in get_topic_vector
+    response = chain.invoke({"questions": question, "topics": topic_string})
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/runnables/base.py", line 3090, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 379, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1088, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 903, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_core/language_models/chat_models.py", line 1192, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/langchain_ollama/chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "/Users/deepanshuyadav/Desktop/BT_AI/AI-question-and-answers/.venv/lib/python3.13/site-packages/ollama/_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model 'gpt-oss:20b' not found (status code: 404)
+
+[2025-10-31 15:51:10] [SUCCESS] ✔️ Finished question 1: {'Error': 100.0}
+[2025-10-31 15:51:10] [SUCCESS] ✅ Completed subject: maths
+[2025-10-31 15:51:10] [SUCCESS] 🎯 All models and subjects processed successfully!
